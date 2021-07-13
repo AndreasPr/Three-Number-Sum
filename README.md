@@ -1,3 +1,3 @@
-# Three Number-Sum
+# Three Number Sum
 
 Implemented in Java
